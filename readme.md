@@ -4,6 +4,13 @@
 
 This project involves designing a basic computer using the Logisim program. The computer is capable of executing a set of instructions as specified in the project requirements. The main focus is on the hardware design aspects of the computer, including registers, memory, and the instruction set.
 
+## Examples
+
+- Addition (4+3)
+  ![alt text](readme/sum.gif)
+- Subtraction (5-2)
+  ![alt text](readme/sub.gif)
+
 ## Components
 
 ### Memory
@@ -26,7 +33,7 @@ This project involves designing a basic computer using the Logisim program. The 
 
 ### Memory Reference
 
-- [Memory Reference](Memory_Reference.pdf)
+- [Memory Reference](readme/Memory_Reference.pdf)
 
 ## Logisim Design
 
@@ -50,5 +57,5 @@ This project demonstrates the fundamental concepts of computer architecture and 
 
 ## References
 
-- [Project Documentation (PDF)](LAB_PROJESI.pdf)
+- [Project Documentation (PDF)](readme/LAB_PROJESI.pdf)
 - Course Material for BLM320 - Bilgisayar Mimarisi (Computer Architecture)
