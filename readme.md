@@ -29,7 +29,7 @@ This project involves designing a basic computer using the Logisim program. The 
 
 ## Instruction Set
 
-![alt text](image-2.png)
+![alt text](readme/image-2.png)
 
 ### Memory Reference
 
